@@ -160,7 +160,7 @@ Form Data Request
     "full_name": "Jhon Doe",
     "email": "jhon@example.com",
     "phone": "17287817212",
-    "image: "Upload File",
+    "image": "Upload File",
     "password": "mylongpassword"
 }
 ```
