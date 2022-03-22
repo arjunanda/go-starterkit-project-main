@@ -154,12 +154,13 @@ This command has a "hot reload" feature, but you will need the <b>reflect</b> li
 ```http
 POST /api/v1/user/register HTTP/1.1
 Host: 127.0.0.1:3000
-Content-Type: application/json
+Form Data Request
 
 {
     "full_name": "Jhon Doe",
     "email": "jhon@example.com",
     "phone": "17287817212",
+    "image: "Upload File",
     "password": "mylongpassword"
 }
 ```
